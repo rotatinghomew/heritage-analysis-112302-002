@@ -1,0 +1,6 @@
+record,source,parent,object,phase,claim,relation,year,access
+E1,MAP-1,MAP-1,roof,early,supports,independent,1660,research
+E2,COPY-A,MAP-1,roof,early,supports,copy,1660,research
+E3,PHOTO-7,PHOTO-7,beam,late,contradicts,independent,1720,exhibition
+E4,ARCH-2,ARCH-2,roof,late,supports,independent,1710,research
+E5,ARCH-2,ARCH-2,door,late,supports,independent,1710,research

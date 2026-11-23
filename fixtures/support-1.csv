@@ -1,0 +1,4 @@
+interpretation,object,phase,requires,conflicts
+I1,roof,early,E1,
+I2,roof,late,E3;E4,I1
+I3,beam,late,E3,

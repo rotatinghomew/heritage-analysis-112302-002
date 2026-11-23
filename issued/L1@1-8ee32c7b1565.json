@@ -1,0 +1,52 @@
+{
+  "label": "L1",
+  "version": "1",
+  "issued_to": "巡展方甲",
+  "issued_on": "2026-05-01",
+  "statements": [
+    {
+      "statement": "S1",
+      "group": "",
+      "kind": "certainty",
+      "interpretation": "I4",
+      "text": "木门为晚期遗构（据ARCH-2、SURV-3）",
+      "image_source": "",
+      "licensee": "筹备厅",
+      "display_scope": "展厅图文说明",
+      "cites": [
+        "E5",
+        "E8"
+      ]
+    },
+    {
+      "statement": "S2",
+      "group": "G1",
+      "kind": "alternative",
+      "interpretation": "I1",
+      "text": "屋顶或为早期遗构（据MAP-1、FIELD-9）",
+      "image_source": "",
+      "licensee": "筹备厅",
+      "display_scope": "展厅图文说明",
+      "cites": [
+        "E1",
+        "E7"
+      ]
+    },
+    {
+      "statement": "S3",
+      "group": "G1",
+      "kind": "alternative",
+      "interpretation": "I2",
+      "text": "屋顶或为晚期改建（据ARCH-2、SURV-3、ARCH-5）",
+      "image_source": "",
+      "licensee": "筹备厅",
+      "display_scope": "展厅图文说明",
+      "cites": [
+        "E4",
+        "E6",
+        "E9"
+      ]
+    }
+  ],
+  "content_hash": "8ee32c7b15652869b406ec84727a708facf24dbcdcb2d9693f2d1b0af176a1e3"
+}

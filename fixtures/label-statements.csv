@@ -1,0 +1,8 @@
+label,version,statement,group,kind,interpretation,text,image_source,licensee,display_scope,cites
+L1,1,S1,,certainty,I4,木门为晚期遗构（据ARCH-2、SURV-3）,,筹备厅,展厅图文说明,E5;E8
+L1,1,S2,G1,alternative,I1,屋顶或为早期遗构（据MAP-1、FIELD-9）,,筹备厅,展厅图文说明,E1;E7
+L1,1,S3,G1,alternative,I2,屋顶或为晚期改建（据ARCH-2、SURV-3、ARCH-5）,,筹备厅,展厅图文说明,E4;E6;E9
+L1,2,S1,,certainty,I4,木门为晚期遗构（据ARCH-2、SURV-3）,,筹备厅,展厅图文说明,E5;E8
+L1,2,S2,G1,alternative,I1,屋顶或为早期遗构（据MAP-1、FIELD-9）,,筹备厅,展厅图文说明,E1;E7
+L2,1,S4,,certainty,I2,屋顶为晚期遗构,MAP-1,,,E4;E6;E9
+L3,1,S5,,alternative,I1,屋顶或为早期遗构（据MAP-1、FIELD-9）,,筹备厅,展厅图文说明,E1;E7

@@ -1,0 +1,23 @@
+{
+  "label": "L3",
+  "version": "1",
+  "issued_to": "巡展方乙",
+  "issued_on": "2026-06-01",
+  "statements": [
+    {
+      "statement": "S5",
+      "group": "",
+      "kind": "alternative",
+      "interpretation": "I1",
+      "text": "屋顶或为早期遗构（据MAP-1、FIELD-9）",
+      "image_source": "",
+      "licensee": "筹备厅",
+      "display_scope": "展厅图文说明",
+      "cites": [
+        "E1",
+        "E7"
+      ]
+    }
+  ],
+  "content_hash": "85caa8a5693b9bfcef3544598d19fab8c08c07193d9bea30e9fc6ffe73f6eec7"
+}

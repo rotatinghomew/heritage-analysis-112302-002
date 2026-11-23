@@ -1,0 +1,5 @@
+label,version,status,issued_to,issued_on,supersedes
+L1,1,issued,巡展方甲,2026-05-01,
+L1,2,draft,,,1
+L2,1,approved,,,
+L3,1,issued,巡展方乙,2026-06-01,

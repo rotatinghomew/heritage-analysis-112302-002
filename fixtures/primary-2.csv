@@ -1,0 +1,7 @@
+record,source,parent,object,phase,claim,relation,year,access
+E6,SURV-3,SURV-3,roof,late,supports,independent,1715,exhibition
+E7,FIELD-9,FIELD-9,roof,early,supports,independent,1655,research
+E8,SURV-3,SURV-3,door,late,supports,independent,1715,exhibition
+E9,ARCH-5,ARCH-5,roof,late,supports,independent,1718,research
+E10,MAP-2,MAP-2,beam,early,supports,independent,1630,research
+E11,FIELD-2,FIELD-2,beam,early,supports,independent,1640,exhibition

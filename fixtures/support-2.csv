@@ -1,0 +1,3 @@
+interpretation,object,phase,requires,conflicts
+I4,door,late,E5,
+I5,beam,early,E10,
